@@ -63,3 +63,5 @@ c)Logs are visualized in the dashboard and integrated with alarms for proactive 
 
 
 **OUTPUT**
+![Image](https://github.com/user-attachments/assets/660c2820-384d-4e79-9182-9f2ce631ced2)
+![Image](https://github.com/user-attachments/assets/ceef519d-1d5e-40a4-8bdd-286cdbbddee1)
